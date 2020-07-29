@@ -1,1 +1,1 @@
-<?php echo "Arquivo index"; ?>
+<?php echo "Olá mundo!"; ?>
